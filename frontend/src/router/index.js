@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import router from './router';
+
 
 
 // Lazy load components for better performance

@@ -47,7 +47,7 @@ const login = async () => {
   
 
 <style scoped>
-/* Styled for a modern, sleek UI */
+
 .login-container {
     max-width: 350px;
     margin: auto;
