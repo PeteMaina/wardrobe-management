@@ -34,6 +34,8 @@ Vue Router
 
 Tailwind CSS
 
+CSS
+
 Axios
 
 _Backend:_
