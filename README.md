@@ -142,7 +142,7 @@ Logout – Securely log out when done.
 
 **Future Enhancements**
 
-Outfit Suggestions (AI-based recommendations)
+Outfit Suggestions (AI-based outfit recommendations)
 
 Laundry Tracker
 
